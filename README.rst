@@ -51,11 +51,11 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
     $ deactivate
 
 - Integracja z TravisCI:
+
 .. image:: https://travis-ci.org/Annopol123/se_hello_printer_app.svg?branch=master
     :target: https://travis-ci.org/Annopol123/se_hello_printer_app
-  ::
 
-    ...
+
 
 
 Pomocnicze
