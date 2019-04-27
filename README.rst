@@ -7,7 +7,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 - Rozpocząnając pracę z projektem (wykorzystując virtualenv). Hermetyczne środowisko dla pojedyńczej aplikacji w python-ie:
 
   ::
-
+    # uzyj make przed przeklejeniem komend
     # centos, add to ~/.bashrc
     $ source /usr/bin/virtualenvwrapper.sh
 
