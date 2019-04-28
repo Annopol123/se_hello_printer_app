@@ -7,7 +7,7 @@ pipeline {
         	}
         }
         stage('Test') {
-            stape {
+            steps {
                     sh 'make test'
                }
         }
