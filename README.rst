@@ -50,6 +50,11 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
     # deaktywacja virtualenv
     $ deactivate
 
+StatusCake
+
+.. image:: https://app.statuscake.com/button/index.php?Track=JiZTRCm0nN&Days=1&Design=1
+    :target: https://www.statuscake.com
+
 - Integracja z TravisCI:
 
 .. image:: https://travis-ci.org/Annopol123/se_hello_printer_app.svg?branch=master
